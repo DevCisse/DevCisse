@@ -4,7 +4,7 @@
 ### - 🌱 I’m a Fullstack Developer with high focus on Microsoft Technologies  ...
 - 🌱 I'm currently learning Xamarin and Microsoft Azure ...
 
-- 🤔 I’m will do whatever it takes 
+- 🤔 I will do whatever it takes 
 
 - 📫 How to reach me: https://twitter.com/DevCisse
 - ⚡ Fun fact: ...  I'm a polyglot
